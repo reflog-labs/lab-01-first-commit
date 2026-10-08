@@ -1,0 +1,10 @@
+# Set default behavior to automatically normalize line endings
+* text=auto
+
+# Force LF for scripts and documentation
+*.sh text eol=lf
+*.md text eol=lf
+
+# Binary files
+*.png binary
+*.pdf binary
